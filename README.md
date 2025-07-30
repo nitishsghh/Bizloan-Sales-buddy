@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sales Management System
 
 <div align="center">
@@ -638,14 +638,3 @@ Dashboard Profile ClientForm Notifications Settings
 ## 📄 License
 
 This project is proprietary software developed for Bizloan business operations.
-
-## 📞 Support
-
-For technical support or feature requests, please contact the development team.
-
----
-
-**Built with ❤️ for field sales teams at Bizloan**
-=======
-# bizloan-sales-buddy
->>>>>>> 45317a2c74e3e19c326bda322c4271fcfb769cdf
