@@ -21,7 +21,6 @@
 [...existing code...]
 4. **Select "Add to Home Screen"** or **"Install App"**
 6. **Works like native app**: Offline access, full screen, app switcher
-
 **Why PWA is Better:**
 - Full-screen experience (no browser bars)
 - Offline functionality for field work
@@ -32,7 +31,6 @@
 #### 📌 **Method 2: Browser Bookmark**
 1. **Open any browser** (Chrome, Firefox, Samsung Internet)
 2. **Visit the app URL**
-3. **Bookmark the page**: Star icon or menu
 4. **Add to home screen**: Long press bookmark → "Add to Home screen"
 
 ### 💻 **Web Browser Access (All Devices)**
@@ -46,11 +44,6 @@ npm run dev
 http://localhost:5000
 
 # 3. Access on mobile (same network)
-http://YOUR_COMPUTER_IP:5000
-```
-
-#### **Production Mode (Live Website)**
-1. **Any Device**: Open browser and visit your deployed URL
 2. **Desktop**: Chrome, Firefox, Safari, Edge - all supported
 3. **Mobile**: All mobile browsers work perfectly
 4. **Tablet**: Responsive design adapts to any screen size
@@ -76,6 +69,7 @@ Mobile UI            REST Endpoints         Data Storage
 Touch Controls      Authentication         Real-time Sync
 PWA Features        Session Management     Lead Tracking
 ```
+# Sales Management System
 
 ### 🔧 **Development Setup (For Developers)**
 
@@ -85,7 +79,6 @@ PWA Features        Session Management     Lead Tracking
 git clone https://github.com/nitishsghh/bizloan-sales-buddy.git
 cd bizloan-sales-buddy
 
-# 2. Install dependencies
 npm install
 
 # 3. Set up environment variables
@@ -99,11 +92,6 @@ SESSION_SECRET=your_32_character_secret
 
 #### **📱 Mobile Features:**
 - Touch-optimized interface
-- Camera integration for document capture
-- Location services for check-ins
-#### **💻 Web Features:**
-- Full keyboard navigation
-- Cross-browser compatibility
 - Print-friendly pages
 #### **🔐 Authentication System:**
 - Employee ID + Mobile + Password login
